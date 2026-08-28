@@ -1,3 +1,0 @@
-trojan://E7nVYbaVfPWVDqedaHtHRDb7vPvc6gm8@37.9.4.138:7443?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=webtracker.rushtaxi.ru#%F0%9F%93%B6%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%A4%97%20%F0%9F%93%B6%20%F0%9F%92%A3%20%D0%A7%D0%B5%D0%B1%D1%83%D1%80%D0%BD%D0%B5%D1%82%20%F0%9F%A4%97
-
-vless://041b836b-e2e4-4f7d-bb99-3e73ed40e3b8@144.31.1.218:9443?security=reality&encryption=none&pbk=2PTRgqqGEOXjMP22yFAIMJX4kHhMyftYok2y4K7YrRk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cypr.speedload.online&sid=a20d3ed244c76426#%F0%9F%9B%9C%20%F0%9F%87%A8%F0%9F%87%BE%20%D0%9A%D0%B8%D0%BF%D1%80%20%F0%9F%A4%97
